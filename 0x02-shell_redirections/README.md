@@ -1,1 +1,1 @@
-A script that counts the number of directories and sub-directories in the current directory.
+A command that finds all empty files and directories in the current directory and all sub-directories.
