@@ -1,1 +1,1 @@
-A a script that displays a confused smiley
+A script that displays the third line of the file iacta
