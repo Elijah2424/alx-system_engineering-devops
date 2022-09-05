@@ -1,1 +1,1 @@
-A script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+A script that displays the 10 newest files in the current directory.
