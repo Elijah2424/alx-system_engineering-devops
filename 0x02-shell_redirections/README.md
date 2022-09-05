@@ -1,1 +1,1 @@
-A script that displays the 10 newest files in the current directory.
+A script that decodes acrostics that use the first letter of each line.
