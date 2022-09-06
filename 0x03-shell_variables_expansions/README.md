@@ -1,1 +1,1 @@
-A script that prints hello user
+A script that displays the result of BREATH to the power LOVE.
