@@ -1,1 +1,1 @@
-A script that displays all users and their home directories, sorted by users.
+A shell script that creates a file
